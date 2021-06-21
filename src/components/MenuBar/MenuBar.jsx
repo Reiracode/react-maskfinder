@@ -89,7 +89,7 @@ const MenuBar = () => {
     }
 
     let litems = [
-        { id: "personal", icon: "fa-user", desc: "個人記錄" },
+        { id: "personal", icon: "fa-user", desc: "個人記錄R" },
         { id: "mystore", icon: "fa-folder-open", desc: "我的最愛" },
         { id: "list", icon: "fa-calendar-plus", desc: "search" },
         { id: "relocate", icon: "fa-compass", desc: "重新定位" },
