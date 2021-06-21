@@ -1,0 +1,40 @@
+.mask-popup > * + * {
+	 margin-top: 10px;
+}
+ .mask-popup h3 {
+	 color: #666;
+}
+ .mask-popup h3:last-of-type {
+	 text-align: center;
+}
+ .popup-container {
+	 width: fit-content;
+}
+ .mask-box {
+	 display: flex;
+}
+ .mask-box h2 {
+	 padding: 0 10px;
+	 font-size: 15px;
+	 color: white;
+	 height: 30px;
+	 line-height: 1.8;
+	 text-align: center;
+	 display: flex;
+	 width: 120px;
+	 justify-content: space-between;
+	 align-items: center;
+}
+ .mask-box h2:first-child {
+	 margin-right: 10px;
+	 border-radius: 15px;
+	 background-color: #73c0d8;
+}
+ .mask-box h2:last-of-type {
+	 border-radius: 15px;
+	 background-color: #ffa573;
+}
+ .mask-box h2.no-mask {
+	 background-color: #a5a5a5;
+}
+ 

@@ -1,0 +1,26 @@
+.marker-cluster {
+	 border-radius: 50%;
+	 text-align: center;
+}
+ .marker-cluster-small {
+	 font-size: 12px;
+	 line-height: 2.6;
+	 width: 30px;
+	 height: 30px;
+	 background: rgba(83, 236, 83, 0.7);
+}
+ .marker-cluster-medium {
+	 font-size: 18px;
+	 line-height: 2.6;
+	 width: 45px;
+	 height: 45px;
+	 background: rgba(215, 248, 66, 0.7);
+}
+ .marker-cluster-large {
+	 font-size: 20px;
+	 line-height: 3.5;
+	 width: 70px;
+	 height: 70px;
+	 background: rgba(255, 100, 39, 0.7);
+}
+ 
