@@ -1,8 +1,8 @@
 {
-  "name": "react-gh-pages-demo",
+  "name": "react-maskfinder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Reiracode.github.io/react-gh-pages-demo",
+  "homepage": "http://Reiracode.github.io/react-maskfinder",
   "dependencies": {
     "leaflet": "^1.6.0",
     "leaflet.markercluster": "^1.4.1",
