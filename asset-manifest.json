@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-maskfinder/static/css/main.a967b0fc.chunk.css",
+    "main.js": "/react-maskfinder/static/js/main.501bd6fd.chunk.js",
+    "main.js.map": "/react-maskfinder/static/js/main.501bd6fd.chunk.js.map",
+    "runtime-main.js": "/react-maskfinder/static/js/runtime-main.3b04b9d2.js",
+    "runtime-main.js.map": "/react-maskfinder/static/js/runtime-main.3b04b9d2.js.map",
+    "static/js/2.64b02e8e.chunk.js": "/react-maskfinder/static/js/2.64b02e8e.chunk.js",
+    "static/js/2.64b02e8e.chunk.js.map": "/react-maskfinder/static/js/2.64b02e8e.chunk.js.map",
+    "index.html": "/react-maskfinder/index.html",
+    "precache-manifest.0fd037b852a55547d8e0ac8fd2da8fd2.js": "/react-maskfinder/precache-manifest.0fd037b852a55547d8e0ac8fd2da8fd2.js",
+    "service-worker.js": "/react-maskfinder/service-worker.js",
+    "static/css/main.a967b0fc.chunk.css.map": "/react-maskfinder/static/css/main.a967b0fc.chunk.css.map",
+    "static/js/2.64b02e8e.chunk.js.LICENSE.txt": "/react-maskfinder/static/js/2.64b02e8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b04b9d2.js",
+    "static/js/2.64b02e8e.chunk.js",
+    "static/css/main.a967b0fc.chunk.css",
+    "static/js/main.501bd6fd.chunk.js"
+  ]
+}
